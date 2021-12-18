@@ -1,0 +1,26 @@
+body{
+    display: block;
+    text-align: center;
+    margin: 8px;
+}
+table{
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 2px;
+    font-variant: normal;
+}
+td{
+    display: table-cell;
+    vertical-align: inherit;
+}
+.search{
+    display: block;
+    text-align: center;
+}
